@@ -63,5 +63,4 @@ The objective of this project is to analyze the trade-offs between exploration a
 │   ├── pso.py            # Standard Particle Swarm Optimization Algorithm
 │   └── sl_pso.py         # Social Learning Particle Swarm Optimizer Algorithm
 ├── main.py               # Main test script to set parameters and display results
-├── requirements.txt      # Project dependencies
 └── README.md
